@@ -1,3 +1,8 @@
+# INTEGRANTES:
+# samuel alberto valdes Gomez
+# santiago velasquez bedoya
+# felipe calan
+
 import random
 def sum1(n):
     global first_numbers

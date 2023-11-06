@@ -1,3 +1,7 @@
+# INTEGRANTES:
+# samuel alberto valdes Gomez
+# santiago velasquez bedoya
+# felipe calan
 
 cards = [
     {"number": "1234567890", "pin": "1234", "balance": 10000},
