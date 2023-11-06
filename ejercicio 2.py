@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
         card = find_card(card_number)
         
-        if card:
+        if card != None:
             print(f"Valid card. Current balance: ${card['balance']}")
             perform_transaction(card)
         else:
